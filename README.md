@@ -9,7 +9,7 @@
 Notre équipe n'ayant pas réussis tous les challenges, ce writeup ne couvrira pas l'intégralité des challenges proposés (notamment ceux de fin, et **ALIAS**). Des pistes de réflexion et la solution proposée par d'autres participants seront quand même décrites.
 
 ## Schéma de dépendance des challenges
-Voici le graph donné par les admin après la fin du ctf. Il résumé les dépendances des différents challenges :
+Voici le graph donné par les admin après la fin du ctf. Il résume les dépendances des différents challenges :
 
 [obsi]: ./images/obsidian.png
 ![obsi]
@@ -162,7 +162,7 @@ Nous cherchons une "zone 4", située surement en Malaisie.
 Dans cette zone 4, nous cherchons un building situé à plus de 3km de la mer, à 5 minutes à pied d'un terrain de foot et proche d'un lieu de culte. 
 Le flag à soumettre est l'identifiant d'un noeud OpenStreetMap. Nous n'avons que 3 tentatives pour réussir
 
-Après quelques heures de recherche (et 2 essais loupés), nous nous rappelons que le challenge xxxxx sur la branche The Lawyer nous a fourni un fichier kmz, qui peut s'ouvrir avec google earth. Dans ce fichier, 10 zones numérotées de 1 à 10. La zone 4 est celle ci :
+Après quelques heures de recherche (et 2 essais loupés), nous nous rappelons que le challenge [Herbaceous](#herbaceous---200pt) sur la branche The Lawyer nous a fourni un fichier kmz, qui peut s'ouvrir avec google earth. Dans ce fichier, 10 zones numérotées de 1 à 10. La zone 4 est celle ci :
 
 [zone 4]: ./images/zone4.png
 ![zone 4]
